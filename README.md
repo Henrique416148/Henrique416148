@@ -63,6 +63,42 @@ Minha atuação é focada em garantir que o dado certo chegue ao lugar certo, co
 
 </div>
 
+
+## 🏗️ Competências Técnicas
+
+- Arquitetura de Pipelines (ETL / ELT)
+- Modelagem Dimensional (Star Schema)
+- Otimização de Queries SQL
+- Data Warehousing em Cloud (BigQuery)
+- Containerização com Docker
+- Controle de Versionamento (Git)
+- Qualidade e Validação de Dados
+- Estruturação de projetos orientados a produção
+
+---
+
+## 🎓 Formação & Certificações
+
+- Bacharelado em Ciência de Dados — FIAP 
+- FIAP Silver — Modelagem e Qualidade de Dados  
+- FIAP Silver — Arquitetura Big Data & Analytics  
+- FIAP Bronze — Análise e Visualização de Dados  
+
+---
+
+## 📈 Filosofia de Engenharia
+
+Encaro Engenharia de Dados como infraestrutura estratégica.
+
+Pipelines bem projetados devem ser:
+
+- Escaláveis  
+- Observáveis  
+- Reprodutíveis  
+- Sustentáveis no longo prazo  
+
+Meu foco é construir sistemas de dados que sustentem decisões em escala.
+
 <br>
 
 <div align="center">
@@ -78,3 +114,5 @@ Minha atuação é focada em garantir que o dado certo chegue ao lugar certo, co
 </div>
 
 <br>
+
+
